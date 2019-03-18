@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: How to Eagle
+description: Learn how to use Eagle quickly
+logo: [https://github.com/iutlongwy/Eagle/blob/master/docs/IUT_LOGO.jpg]
+show_downloads: false
